@@ -1,1 +1,6 @@
+
 This will overwrite the entire log file.
+
+Day 1: Setup complete.
+I am appending this text to the log.txt file.
+
